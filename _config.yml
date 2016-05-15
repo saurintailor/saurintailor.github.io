@@ -10,6 +10,8 @@ url:
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
+#pygments:         false
+#highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -28,7 +30,7 @@ kramdown:
 owner:
   name: Saurin Tailor
   avatar: Saurin.jpg
-  bio: "Describe your self."
+  bio: "A software architect and maverick."
   email: 
   disqus-shortname: 
   twitter: #username
